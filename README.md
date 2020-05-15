@@ -1,5 +1,5 @@
 # gapps
-A PmWiki plugin to embed select Google apps such as maps and youtube videos.
+A PmWiki recipe to embed select Google apps such as maps and youtube videos.
 
 # Installation
   * Place `gapps.php` in PmWiki's cookbook directory.
